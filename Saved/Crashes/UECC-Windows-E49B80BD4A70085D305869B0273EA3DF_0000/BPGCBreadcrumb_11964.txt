@@ -1,0 +1,2 @@
+/Game/ContentSave/InventorySystem/UI/WB_PreviewSlots.Default__WB_PreviewSlots_C
+/Game/ContentSave/InventorySystem/UI/WB_PreviewSlots.WB_PreviewSlots_C

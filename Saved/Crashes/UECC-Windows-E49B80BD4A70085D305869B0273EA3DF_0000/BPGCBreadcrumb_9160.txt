@@ -1,0 +1,2 @@
+/Engine/Transient.World_34:PersistentLevel.BP_Item_Base_Apple_C_0.BPC_ItemData
+/Game/ContentSave/InventorySystem/BPC_ItemData.BPC_ItemData_C

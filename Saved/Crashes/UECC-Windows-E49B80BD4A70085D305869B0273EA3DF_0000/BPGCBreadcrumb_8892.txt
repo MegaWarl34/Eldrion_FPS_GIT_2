@@ -1,0 +1,2 @@
+/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Item_Base_Apple_C_UAID_04BF1B9FE924973202_1262302871.BPC_ItemData
+/Game/ContentSave/InventorySystem/BPC_ItemData.BPC_ItemData_C

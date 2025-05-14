@@ -1,0 +1,2 @@
+/Game/ContentSave/InventorySystem/Item/BP_Item_Base_Apple.BP_Item_Base_Apple_C:BPC_ItemData_GEN_VARIABLE
+/Game/ContentSave/InventorySystem/BPC_ItemData.BPC_ItemData_C
